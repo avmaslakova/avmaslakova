@@ -84,7 +84,7 @@ I care about reproducibility and clean experiments: tracked runs, honest cross-v
 
 ## 💼 Experience
 
-### ML Intern — T1 AI · 2026
+### ML Intern - T1 AI, 2026
 - Developed a review processing pipeline
 - Built a Python parser using Selenium and Jina AI
 - Set up API integration with FastAPI and data processing workflows in Dify (workflows, HTTP requests)
@@ -93,7 +93,7 @@ I care about reproducibility and clean experiments: tracked runs, honest cross-v
 
 ## 🎓 Education
 
-### BSc — Financial University under the Government of the Russian Federation
+### BSc - Financial University under the Government of the Russian Federation
 **Applied Machine Learning**
 
 - Core coursework: machine learning, deep learning, probability theory, mathematical statistics, linear algebra, discrete mathematics
@@ -105,7 +105,7 @@ I care about reproducibility and clean experiments: tracked runs, honest cross-v
 ![Chinese](https://img.shields.io/badge/Chinese-HSK_3-E63946?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![Russian](https://img.shields.io/badge/Russian-Native-8A5CFF?style=for-the-badge&logo=googletranslate&logoColor=white)
 
-** 📜 Courses & certificates **
+**📜 Courses & certificates**
 
 | Course | Platform | Year | Certificate |
 |:--|:--|:--:|:--:|
