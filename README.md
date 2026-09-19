@@ -14,9 +14,9 @@
 
 ## 👋 About me
 
-I'm an ML Specialist working mainly with natural language processing. What I enjoy most is the full cycle of a project rather than a single stage of it — collecting and cleaning raw data, designing features, training and tuning models, and then actually shipping the result as a working service instead of leaving it in a notebook.
+I'm an ML Specialist working mainly with natural language processing. What I enjoy most is the full cycle of a project rather than a single stage of it - collecting and cleaning raw data, designing features, training and tuning models, and then actually shipping the result as a working service instead of leaving it in a notebook.
 
-Most of my work so far has revolved around one question: how much of human behaviour online can be explained by the emotional content of text. My thesis project grew out of exactly that — a pipeline that reads sentiment, emotions, valence–arousal–dominance and toxicity from a post and uses them to forecast audience engagement, trained on roughly 464,000 VK publications. Alongside NLP, I like graph-based approaches and everything around zero-shot and transfer learning, where the goal is to make a model generalize to things it has never seen during training.
+Most of my work so far has revolved around one question: how much of human behaviour online can be explained by the emotional content of text. My thesis project grew out of exactly that - a pipeline that reads sentiment, emotions, valence–arousal–dominance and toxicity from a post and uses them to forecast audience engagement, trained on roughly 464,000 VK publications. Alongside NLP, I like graph-based approaches and everything around zero-shot and transfer learning, where the goal is to make a model generalize to things it has never seen during training.
 
 I care about reproducibility and clean experiments: tracked runs, honest cross-validation, and hyperparameter search that isn't done by hand. I'm always happy to talk about representation learning, evaluation metrics that actually mean something, or how to squeeze a research prototype into a production-shaped box.
 
@@ -43,8 +43,6 @@ I care about reproducibility and clean experiments: tracked runs, honest cross-v
 ![LLM](https://img.shields.io/badge/LLM_Applications-5B8CFF?style=flat-square&labelColor=1a1b27)
 ![DataViz](https://img.shields.io/badge/Data_Visualization-00C2C7?style=flat-square&labelColor=1a1b27)
 ![Interpretability](https://img.shields.io/badge/Model_Interpretability-00E5A0?style=flat-square&labelColor=1a1b27)
-
----
 
 ## 🧰 Tech stack
 
@@ -82,16 +80,12 @@ I care about reproducibility and clean experiments: tracked runs, honest cross-v
 
 **Foundations** — probability theory · statistics · linear algebra · discrete mathematics · A/B testing · PCA
 
----
-
 ## 💼 Experience
 
 ### ML Intern — T1 AI · 2026
 - Developed a review processing pipeline
 - Built a Python parser using Selenium and Jina AI
 - Set up API integration with FastAPI and data processing workflows in Dify (workflows, HTTP requests)
-
----
 
 ## 🎓 Education
 
@@ -107,8 +101,6 @@ I care about reproducibility and clean experiments: tracked runs, honest cross-v
 ![Chinese](https://img.shields.io/badge/Chinese-HSK_3-E63946?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![Russian](https://img.shields.io/badge/Russian-Native-8A5CFF?style=for-the-badge&logo=googletranslate&logoColor=white)
 
----
-
 ## 📜 Courses & certificates
 
 | Course | Platform | Year | Certificate |
@@ -116,21 +108,6 @@ I care about reproducibility and clean experiments: tracked runs, honest cross-v
 | *The AI Engineer Course 2026: Complete AI Engineer Bootcamp* | *Udemy* | 2026 | [![cert](https://img.shields.io/badge/view-8A5CFF?style=flat-square&logo=readthedocs&logoColor=white)](#) |
 | *The Git & Github Bootcamp* | *Udemy* | 2026 | [![cert](https://img.shields.io/badge/view-00E5A0?style=flat-square&logo=readthedocs&logoColor=white)](#) |
 | *Углублённый NLP* | *VK Education* | 2026 | [![cert](https://img.shields.io/badge/view-FF5CA8?style=flat-square&logo=readthedocs&logoColor=white)](#) |
-
----
-
-## 📊 GitHub & LeetCode stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avmaslakova&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5CA8&icon_color=8A5CFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmaslakova&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5CA8" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://leetcard.jacoblin.cool/avmaslakova?theme=dark&font=Fira%20Code&ext=heatmap" />
-</p>
-
----
 
 ## 🤝 Let's connect
 
