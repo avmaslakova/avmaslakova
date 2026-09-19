@@ -109,9 +109,9 @@ I care about reproducibility and clean experiments: tracked runs, honest cross-v
 
 | Course | Platform | Year | Certificate |
 |:--|:--|:--:|:--:|
-| *The AI Engineer Course 2026: Complete AI Engineer Bootcamp* | *Udemy* | 2026 | [![cert](https://img.shields.io/badge/view-8A5CFF?style=flat-square&logo=readthedocs&logoColor=white)](#) |
-| *The Git & Github Bootcamp* | *Udemy* | 2026 | [![cert](https://img.shields.io/badge/view-00E5A0?style=flat-square&logo=readthedocs&logoColor=white)](#) |
-| *Углублённый NLP* | *VK Education* | 2026 | [![cert](https://img.shields.io/badge/view-FF5CA8?style=flat-square&logo=readthedocs&logoColor=white)](#) |
+| *The AI Engineer Course 2026: Complete AI Engineer Bootcamp* | *Udemy* | 2026 | [![cert](https://img.shields.io/badge/view-8A5CFF?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/avmaslakova/avmaslakova/blob/main/certificates/udemy-git-bootcamp.pdf) |
+| *The Git & Github Bootcamp* | *Udemy* | 2026 | [![cert](https://img.shields.io/badge/view-00E5A0?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/avmaslakova/avmaslakova/blob/main/certificates/udemy-ai-engineer-bootcamp.pdf) |
+| *Углублённый NLP* | *VK Education* | 2026 | [![cert](https://img.shields.io/badge/view-FF5CA8?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/avmaslakova/avmaslakova/blob/main/certificates/vk-advanced-nlp.pdf) |
 
 ---
 
